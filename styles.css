@@ -5,6 +5,7 @@ table,th,td{
 	font-size:14px;
 	border-collapse:collapse;
 	padding:2px; 60px; 2px; 1px;
+	border:1px solid black;
 	
 }
 th{
